@@ -34,7 +34,7 @@ Aarogyadhara/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/aarogyadhara.git
+   git clone https://github.com/Anshul-ydv/aarogyadhara.git
    cd aarogyadhara
    ```
 
