@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342745146949",
+    "project_id": "aarogyadhara-d1a48",
+    "storage_bucket": "aarogyadhara-d1a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342745146949:android:e61c62c76186955d1fa52c",
+        "android_client_info": {
+          "package_name": "com.example.Aarogyadhara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZUnuXP2C2kYB1Hn4EvLHMuYMmr54sdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
